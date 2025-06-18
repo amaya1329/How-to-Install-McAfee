@@ -8,7 +8,7 @@ ________________________________________
 
 For Install McAfee Click on This Button 👉
 -----------------------------
-.. image:: click-install-in.png
+.. image:: install-now.png
    :alt: My Project Logo
    :width: 450px
    :align: center
